@@ -1,0 +1,22 @@
+{
+  "name": "git-svn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "esno index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "compressing": "^1.9.0",
+    "download": "^8.0.0",
+    "svn-spawn": "^0.1.6"
+  },
+  "devDependencies": {
+    "@types/download": "^8.0.2",
+    "esno": "^0.16.3",
+    "typescript": "^5.0.4"
+  }
+}
